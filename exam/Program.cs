@@ -4,6 +4,7 @@ namespace exam
     {
         /// <summary>
         ///  The main entry point for the application of exam.
+        ///   ///  The main entry point for the application of main exam.
         /// </summary>
         [STAThread]
         static void Main()
